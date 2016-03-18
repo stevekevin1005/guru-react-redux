@@ -7,6 +7,7 @@
 ## redux
 
  * [redux official github reps](https://github.com/reactjs/redux)
+ * [Redux 中文文档](http://cn.redux.js.org/)
  
 ## 教學影片
 
