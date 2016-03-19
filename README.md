@@ -1,7 +1,7 @@
 # guru-react-redux
 
 ## react basic
-
+ * [flux basic](http://blog.gasolin.idv.tw/2014/11/flux-javascript.html)
  * [react official website](https://facebook.github.io/react/)
 
 ## redux
