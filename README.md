@@ -5,7 +5,7 @@
  * [react official website](https://facebook.github.io/react/)
 
 ## redux
-
+ * [redux basic](http://rhadow.github.io/2015/07/30/beginner-redux/)
  * [redux official github reps](https://github.com/reactjs/redux)
  
 ## 教學影片
